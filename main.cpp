@@ -16,7 +16,7 @@ int main() {
         std::cout << "i = " << i << std::endl;
     }
 
-    return 0;
+    return 0;    0
 }
 
 // TIP See CLion help at <a
